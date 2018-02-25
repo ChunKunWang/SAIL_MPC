@@ -1,4 +1,8 @@
-## Compile: make / make clean
+# Match-making by MPC
+
+## How to compile 
+
+make / make clean
 
 ## The sample of program execution
 

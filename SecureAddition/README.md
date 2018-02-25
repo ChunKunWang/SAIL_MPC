@@ -1,4 +1,8 @@
-## Compile: make / make clean
+# Secure addition
+
+## How to compile
+
+make / make clean
 
 ## The sample of program execution
 
